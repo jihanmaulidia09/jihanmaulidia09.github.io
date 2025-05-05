@@ -3,21 +3,37 @@ layout: default
 title: friends
 ---
 
+
+
 # Friends Page
 Berikut teman-teman saya dikelas:
-1.[muliadi](https://muliadi50.github.io)
-2.[dwiidarahmadanisitumorang](https://dwiidarahmadanisitumorang.github.io)
-3.[zamharira](https://zamharira09.github.io)
-4.[Muhammadaziz](https://mhmmd-aziz.github.io)
-5.[alifarrayyan29](https://alifarrayyan29.github.io)
-6.[dayat-yat](https://dayat-yat.github.io)
-7.[athayaaufa18](https://athayaaufa18.github.io)
-8.[abadan1912](https://abadan1912.github.io)
-9.[deswitanazwa](https://deswitanazwa.github.io)
-10.[mfikrisodri](https://mfikrisodri.github.io)
-11.[mirza faberany](https://mirzafaberanyy.github.io)
-12.[riski al fattah](https://riskialfattah.github.io)
-13.[TM dzaki maulana](https://akbar2224.github.io)
+1. [Abadan Syakira](https://abadan1912.github.io/)
+2. [Deswita Nazwa Ariani](https://deswitanazwa.github.io/)
+3. [Dwi Ida Rahmadani Situmorang](https://dwiidarahmadanisitumorang.github.io/)
+4. [Fitri Ramdhani](https://fitriramadhani20.github.io/)
+5. [Ikhsan Salsabilly](https://isanbly06.github.io/)
+6. [Jihan Maulida](https://jihanmaulidia09.github.io/)
+7. [Muhammad Alfisyahrin Muzhaffar](https://alfisyahrin-26.github.io/)
+8. [Muhammad Alif Arrayyan](https://alifarrayyan29.github.io/)
+9. [Muhammad Aziz](https://mhmmd-aziz.github.io/)
+10. [Muhammad Fauzan](https://muhammadfauzan61.github.io/)
+11. [Muhammad Fikri Sodri](https://mfikrisodri.github.io/)
+12. [Muhammad Hawari](https://hawari-95.github.io/)
+13. [Muhammad Mirza Feberany](https://mirzafeberanyy.github.io/)
+14. [Muliadi Tumanggor](https://muliadi50.github.io/)
+15. [Nailan Zakia](https://nailanzakia.github.io/)
+16. [Rahmat Hidayat]()
+17. [Ridho Ryan Ghifari](https://ridhoryanghifari.github.io/)
+18. [Rizki Al Fatah](https://riskialfatah.github.io/)
+19. [Salwa](https://salwaiska027.github.io/)
+20. [Siti Azzahra](https://sitiazzahraaa.github.io/)
+21. [Siti Hajar](https://sitihajar01.github.io/)
+22. [Sithya Aayla Aufa](https://athayaaufa18.github.io/)
+23. [Tania Ananda Sari](https://taniaanandasari.github.io/)
+24. [Tm Dzaky Maulana](https://akbar2224.github.io/akbar2224/)
+25. [Wildanun Hasanah](https://wildanunhasanah.github.io/)
+26. [Yumna](https://yumna1711.github.io/)
+27. [Zam](https://zamharira09.github.io//)
 
 
 
