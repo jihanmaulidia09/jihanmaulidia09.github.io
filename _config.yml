@@ -1,5 +1,11 @@
-url: "https://jihanmaulidia09.github.io/"
+title: Jihan Maulidia
+email: jihan_maulidia054@student.pnl.ac.id
+description: > # this means to ignore newLines until "baseurl:"
+ A personal blog by Jihan Maulidia, a student at Politeknik Negeri Lhokseumawe.
+ this blog is built using jekyll and hosted on GitHub Pages .
+ the content is primary In Indonesian, but some posts may be in english
 
+url: "https://jihanmaulidia09.github.io/"
 
 plugins:
 - jekyll-feed
